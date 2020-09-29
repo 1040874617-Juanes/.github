@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center" id="anchor-1">
-	<img src="./images/banners/contributing-banner.webp" alt="Around a circular table sit a group of diverse people. Women and men from different ancestry dressed in business casual attire, reach towards the center of the table arranging different sized gears. There is a space at the table still open. An empty cushioned chair awaits close by." width="100%">
+	<img src="https://raw.githubusercontent.com/armirage/.github/master/images/banners/contributing-banner.webp" alt="Around a circular table sit a group of diverse people. Women and men from different ancestry dressed in business casual attire, reach towards the center of the table arranging different sized gears. There is a space at the table still open. An empty cushioned chair awaits close by." width="100%">
 	<div align="right">
 			<small>"Brainstorming Cog Collaboration Team Togetherness Concept" by rawpixel, licensed under 123RF Standard</small>
 		<sup>

@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center" id="anchor-1">
-	<img src="./images/banners/code-of-conduct-banner.webp" alt="A group of women and men of different ages cup their hands inside the each others. They lift up a mound of fertile potting soil. From the moist dirt, a young seedling sprouts forth greeting the sun with little leaves spread open." width="100%">
+	<img src="https://raw.githubusercontent.com/armirage/.github/master/images/banners/code-of-conduct-banner.webp" alt="A group of women and men of different ages cup their hands inside the each others. They lift up a mound of fertile potting soil. From the moist dirt, a young seedling sprouts forth greeting the sun with little leaves spread open." width="100%">
 	<div align="right">
 		<small>"Business growth - Hands holding green plant indicating teamwork stock photo" by yuri, licensed under iStock</small>
 		<sup>

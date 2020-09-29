@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center" id="anchor-1">
-		<img src="./images/banners/security-banner.webp" alt="A close up of a rusted padlock. It loops through the locking hole of an iron handle, on an even rustier gate. The gate is rough with rust and chipped paint, crafted from welded iron pipes. Despite the lock being closed, and looping through the hole, the gate swings open. A clear path leads to the sunny grass covered courtyard in the background." width="100%">
+		<img src="https://raw.githubusercontent.com/armirage/.github/master/images/banners/security-banner.webp" alt="A close up of a rusted padlock. It loops through the locking hole of an iron handle, on an even rustier gate. The gate is rough with rust and chipped paint, crafted from welded iron pipes. Despite the lock being closed, and looping through the hole, the gate swings open. A clear path leads to the sunny grass covered courtyard in the background." width="100%">
 	<div align="right">
 		<small>"Rusted Grey Padlock in Selective-focus Photography" by Artem Beliaikin, licensed under Pexel.</small>
 		<sup>

@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center" id="anchor-1">
-	<img src="./images/banners/support-banner.webp" alt="An old style wooden toolbox has a collection of tools poking out of it. A hammer, saw, wrench, screwdrivers, level, and such. However, its size is as big as a thumb. It sits atop the thin, nearly flat, keyboard of laptop. Where is the brownie about to work on it?" width="100%">
+	<img src="https://raw.githubusercontent.com/armirage/.github/master/images/banners/support-banner.webp" alt="An old style wooden toolbox has a collection of tools poking out of it. A hammer, saw, wrench, screwdrivers, level, and such. However, its size is as big as a thumb. It sits atop the thin, nearly flat, keyboard of laptop. Where is the brownie about to work on it?" width="100%">
 	<div align="right">
 		<small>"Toolbox with tools on laptop" by maxxyustas, licensed under 123RF Standard</small>
 		<sup>

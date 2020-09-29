@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center" id="anchor-1">
-	<img src="./images/banners/readme-banner.webp" alt="A collection of leather bound books sit atop each other on a dusty wooden shelf. Their sun baked covers crack and split from age. Their pages waxy to the touch. It is hard to tell if they ever had writing within them. And yet the curled page corners, the loose lay of the pages suggest they were used a lot. Labels upon the shelf read 'District Judge'." width="100%">
+	<img src="https://raw.githubusercontent.com/armirage/.github/master/images/banners/readme-banner.webp" alt="A collection of leather bound books sit atop each other on a dusty wooden shelf. Their sun baked covers crack and split from age. Their pages waxy to the touch. It is hard to tell if they ever had writing within them. And yet the curled page corners, the loose lay of the pages suggest they were used a lot. Labels upon the shelf read 'District Judge'." width="100%">
 	<div align="right">
 		<small>"Stack of Books on Black Wooden Shelf" by Jawadur Rahman Srijon, licensed under Pexels.</small>
 		<sup>
